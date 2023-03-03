@@ -1,4 +1,4 @@
-Бета-тест. Плагин FSPAX. Дополнение для Microsoft Flight Simulator 2020.
+Плагин FSPAX - Версия 1.1. Дополнение для Microsoft Flight Simulator 2020.
 
 Разработчик     : MARDOL Simulations (https://vk.com/mardolsim)
 Звуки/Правки    : Алексей Сидоров    (https://vk.com/alexey.sidorov). Большое спасибо.
